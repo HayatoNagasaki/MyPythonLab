@@ -27,3 +27,18 @@ X | q[1]
 ops.Toffoli  | (q[0], q[1], q[2])
 ```
 #
+* XOR : ![equation](https://latex.codecogs.com/svg.latex?\Large&space;q[2]=q[1]\oplus{q[0]})
+```
+X | q[0]
+and1 = eng.allocate_qubit()
+ops.Toffoli  | (q[0], q[1], and1)
+  
+X | q[0]
+X | q[1]
+and2 = eng.allocate_qubit()
+ops.Toffoli  | (q[0], q[1], and2)
+  
+X | and1
+X | and2
+ops.Toffoli  | (and1, and2, q[2])
+```
