@@ -10,6 +10,11 @@ H | q[2]
 Al(Measure) | q
 ```
 #
+* Not : ![equation](https://latex.codecogs.com/svg.latex?\Large&space;q[0]=\neg{q[0]})
+```
+X | q[0]
+```
+#
 * AND : ![equation](https://latex.codecogs.com/svg.latex?\Large&space;q[2]=q[1]\wedge{q[0]})
 ```
 ops.Toffoli  | (q[0], q[1], q[2])
