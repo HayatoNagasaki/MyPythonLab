@@ -1,2 +1,3 @@
 # MyPythonLab
-MyPythonLab contains python programs that I learned and tested
+MyPythonLab is a place to share my python experience. This contains many python code that I learned and tested.
+
