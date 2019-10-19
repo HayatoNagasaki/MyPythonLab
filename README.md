@@ -4,3 +4,9 @@ MyPythonLab is a place to share my python experience. This contains many python 
 ## Owner
 
 Hayato Nagasaki
+
+
+# Algorithms
+
+## Email
+- [Email](./Email)
