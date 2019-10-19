@@ -13,4 +13,25 @@ Hayato Nagasaki
 
 
 ## FTP Server
-- [FTP_server](.//FTP_server)
+- [FTP_server](./FTP_server)
+
+
+## Artificial Intelligence
+### Image recognition
+- [ImageAI](./ImageAI)
+
+
+## Coding with Assembly Language
+- [assembly_code](./assembly_code)
+
+## Computer Virus
+- [computer_virus](./computer_virus)
+
+
+## Quantum Computing
+- [projectq](./projectq)
+
+## Working with Web App
+### Conceptnet
+- [conceptnet](./conceptnet)
+
