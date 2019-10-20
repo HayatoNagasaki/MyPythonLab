@@ -24,6 +24,9 @@ Hayato Nagasaki
 ## Coding with Assembly Language
 - [assembly_code](./assembly_code)
 
+## Javascript and python
+- [Javascript](./Javascript)
+
 ## Computer Virus
 - [computer_virus](./computer_virus)
 
