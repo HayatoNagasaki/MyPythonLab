@@ -27,6 +27,9 @@ Hayato Nagasaki
 ## Javascript and python
 - [Javascript](./Javascript)
 
+## HTML
+- [Python_with_html](./Python_with_html)
+
 ## Computer Virus
 - [computer_virus](./computer_virus)
 
