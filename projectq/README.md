@@ -1,5 +1,7 @@
 # Quantum computing with Projectq
 
+Python module for quantum computing simulation
+
 Some Usuful quantum gates
 * Random Numbers (3bits)
 ```
